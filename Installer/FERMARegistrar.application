@@ -14,7 +14,7 @@
     <framework targetVersion="4.6" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\FERMARegistrar_1_0_0_6\FERMARegistrar.exe.manifest" size="13128">
+    <dependentAssembly dependencyType="install" codebase="Application Files\FERMARegistrar_1_0_0_7\FERMARegistrar.exe.manifest" size="13128">
       <assemblyIdentity name="FERMARegistrar.exe" version="1.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
